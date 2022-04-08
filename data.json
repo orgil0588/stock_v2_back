@@ -1,0 +1,1434 @@
+[
+  {
+    "circulating_supply": 25000000,
+    "class": "A",
+    "code": 548,
+    "company": "Ард Даатгал ХК",
+    "ticker": "AIC",
+    "total_supply": 25000000
+  },
+  {
+    "circulating_supply": 1062974743,
+    "class": "A",
+    "code": 90,
+    "company": "АПУ ХК",
+    "ticker": "APU",
+    "total_supply": 1064181553
+  },
+  {
+    "circulating_supply": 279753341,
+    "class": "A",
+    "code": 550,
+    "company": "Ард кредит ББСБ ХК",
+    "ticker": "ADB",
+    "total_supply": 280000000
+  },
+  {
+    "circulating_supply": 28614263,
+    "class": "A",
+    "code": 326,
+    "company": "Ард санхүүгийн нэгдэл ХК",
+    "ticker": "AARD",
+    "total_supply": 28614263
+  },
+  {
+    "circulating_supply": 381133,
+    "class": "A",
+    "code": 13,
+    "company": "Баянгол зочид буудал ХК",
+    "ticker": "BNG",
+    "total_supply": 423065
+  },
+  {
+    "circulating_supply": 13694883,
+    "class": "A",
+    "code": 522,
+    "company": "Би ди сек ХК",
+    "ticker": "BDS",
+    "total_supply": 17000000
+  },
+  {
+    "circulating_supply": 62500000,
+    "class": "A",
+    "code": 558,
+    "company": "Богд Банк ХК",
+    "ticker": "BOGD",
+    "total_supply": 62500000
+  },
+  {
+    "circulating_supply": 228275458,
+    "class": "A",
+    "code": 554,
+    "company": "Бодь Даатгал ХК",
+    "ticker": "BODI",
+    "total_supply": 235319718
+  },
+  {
+    "circulating_supply": 780112500,
+    "class": "A",
+    "code": 354,
+    "company": "Говь ХК",
+    "ticker": "GOV",
+    "total_supply": 780112500
+  },
+  {
+    "circulating_supply": 1099199000,
+    "class": "A",
+    "code": 71,
+    "company": "Дархан нэхий ХК",
+    "ticker": "NEH",
+    "total_supply": 1105479000
+  },
+  {
+    "circulating_supply": 71727918,
+    "class": "A",
+    "code": 553,
+    "company": "Инвескор ББСБ ХК",
+    "ticker": "INV",
+    "total_supply": 71727918
+  },
+  {
+    "circulating_supply": 740506932,
+    "class": "A",
+    "code": 545,
+    "company": "ЛэндМН ББСБ ХК",
+    "ticker": "LEND",
+    "total_supply": 800000000
+  },
+  {
+    "circulating_supply": 624301600,
+    "class": "A",
+    "code": 547,
+    "company": "Мандал Даатгал ХК",
+    "ticker": "MNDL",
+    "total_supply": 624301600
+  },
+  {
+    "circulating_supply": 3800721,
+    "class": "A",
+    "code": 208,
+    "company": "Махимпекс ХК",
+    "ticker": "MMX",
+    "total_supply": 3800721
+  },
+  {
+    "circulating_supply": 20709320,
+    "class": "A",
+    "code": 542,
+    "company": "Мик холдинг ХК",
+    "ticker": "MIK",
+    "total_supply": 20709320
+  },
+  {
+    "circulating_supply": 99586363,
+    "class": "A",
+    "code": 541,
+    "company": "Монгол шуудан ХК",
+    "ticker": "MNP",
+    "total_supply": 99586363
+  },
+  {
+    "circulating_supply": 408850428,
+    "class": "A",
+    "code": 551,
+    "company": "Монос хүнс ХК",
+    "ticker": "MFC",
+    "total_supply": 408850428
+  },
+  {
+    "circulating_supply": 343061914,
+    "class": "A",
+    "code": 135,
+    "company": "Сүү ХК",
+    "ticker": "SUU",
+    "total_supply": 344000000
+  },
+  {
+    "circulating_supply": 52665200,
+    "class": "A",
+    "code": 458,
+    "company": "Таван толгой ХК",
+    "ticker": "TTL",
+    "total_supply": 52665200
+  },
+  {
+    "circulating_supply": 1023703,
+    "class": "A",
+    "code": 22,
+    "company": "Талх чихэр ХК",
+    "ticker": "TCK",
+    "total_supply": 1023703
+  },
+  {
+    "circulating_supply": 200000000,
+    "class": "A",
+    "code": 549,
+    "company": "Түмэн шувуут ХК",
+    "ticker": "TUM",
+    "total_supply": 200000000
+  },
+  {
+    "circulating_supply": 15734200,
+    "class": "A",
+    "code": 402,
+    "company": "Хөвсгөл алтан дуулга ХК",
+    "ticker": "ADU",
+    "total_supply": 15734200
+  },
+  {
+    "circulating_supply": 3151304,
+    "class": "B",
+    "code": 461,
+    "company": "Адуун чулуун ХК",
+    "ticker": "ADL",
+    "total_supply": 3151304
+  },
+  {
+    "circulating_supply": 34452124,
+    "class": "B",
+    "code": 543,
+    "company": "Айтүүлс ХК",
+    "ticker": "ITLS",
+    "total_supply": 34452124
+  },
+  {
+    "circulating_supply": 3389331,
+    "class": "B",
+    "code": 191,
+    "company": "Ариг гал ХК",
+    "ticker": "EER",
+    "total_supply": 3479320
+  },
+  {
+    "circulating_supply": 171627,
+    "class": "B",
+    "code": 17,
+    "company": "Атар-Өргөө ХК",
+    "ticker": "ATR",
+    "total_supply": 174136
+  },
+  {
+    "circulating_supply": 20974360,
+    "class": "B",
+    "code": 396,
+    "company": "Багануур ХК",
+    "ticker": "BAN",
+    "total_supply": 20974360
+  },
+  {
+    "circulating_supply": 252608,
+    "class": "B",
+    "code": 445,
+    "company": "Баянтээг ХК",
+    "ticker": "BTG",
+    "total_supply": 252608
+  },
+  {
+    "circulating_supply": 242464,
+    "class": "B",
+    "code": 234,
+    "company": "Ган хийц ХК",
+    "ticker": "GHC",
+    "total_supply": 242464
+  },
+  {
+    "circulating_supply": 19062080,
+    "class": "B",
+    "code": 492,
+    "company": "Бэрх Уул ХК",
+    "ticker": "BEU",
+    "total_supply": 19062080
+  },
+  {
+    "circulating_supply": 78543001,
+    "class": "B",
+    "code": 528,
+    "company": "Гермес центр ХК",
+    "ticker": "HRM",
+    "total_supply": 78543001
+  },
+  {
+    "circulating_supply": 1575010,
+    "class": "B",
+    "code": 88,
+    "company": "Гутал ХК",
+    "ticker": "GTL",
+    "total_supply": 161868
+  },
+  {
+    "circulating_supply": 8945300,
+    "class": "B",
+    "code": 366,
+    "company": "Дархан зочид буудал ХК",
+    "ticker": "DZG",
+    "total_supply": 8945300
+  },
+  {
+    "circulating_supply": 617718,
+    "class": "B",
+    "code": 380,
+    "company": "Дархан хүнс ХК",
+    "ticker": "DHU",
+    "total_supply": 617718
+  },
+  {
+    "circulating_supply": 79988802,
+    "class": "B",
+    "code": 521,
+    "company": "Женко тур бюро ХК",
+    "ticker": "JTB",
+    "total_supply": 100000000
+  },
+  {
+    "circulating_supply": 65362,
+    "class": "B",
+    "code": 34,
+    "company": "Жуулчин дюти фрий ХК",
+    "ticker": "SUL",
+    "total_supply": 65362
+  },
+  {
+    "circulating_supply": 1368206,
+    "class": "B",
+    "code": 379,
+    "company": "Материалимпекс ХК",
+    "ticker": "MIE",
+    "total_supply": 1368206
+  },
+  {
+    "circulating_supply": 829622,
+    "class": "B",
+    "code": 444,
+    "company": "Могойн гол ХК",
+    "ticker": "BDL",
+    "total_supply": 829622
+  },
+  {
+    "circulating_supply": 64132341,
+    "class": "B",
+    "code": 162,
+    "company": "Монгол даатгал ХК",
+    "ticker": "MDIC",
+    "total_supply": 64132341
+  },
+  {
+    "circulating_supply": 56417000,
+    "class": "B",
+    "code": 544,
+    "company": "Монгол Базальт ХК",
+    "ticker": "MBW",
+    "total_supply": 56417000
+  },
+  {
+    "circulating_supply": 474164,
+    "class": "B",
+    "code": 9,
+    "company": "Монгол нэхмэл ХК",
+    "ticker": "MNH",
+    "total_supply": 474164
+  },
+  {
+    "circulating_supply": 700279,
+    "class": "B",
+    "code": 236,
+    "company": "Монгол шевро ХК",
+    "ticker": "MVO",
+    "total_supply": 920279
+  },
+  {
+    "circulating_supply": 2456731,
+    "class": "B",
+    "code": 2,
+    "company": "Монгол савхи ХК",
+    "ticker": "UYN",
+    "total_supply": 2475343
+  },
+  {
+    "circulating_supply": 25870276,
+    "class": "B",
+    "code": 209,
+    "company": "Монголын цахилгаан холбоо ХК",
+    "ticker": "MCH",
+    "total_supply": 25870276
+  },
+  {
+    "circulating_supply": 10000000,
+    "class": "B",
+    "code": 517,
+    "company": "Монгол шилтгээн ХК",
+    "ticker": "MSH",
+    "total_supply": 10000000
+  },
+  {
+    "circulating_supply": 15869233,
+    "class": "B",
+    "code": 25,
+    "company": "Монинжбар ХК",
+    "ticker": "MIB",
+    "total_supply": 15869233
+  },
+  {
+    "circulating_supply": 1288515,
+    "class": "B",
+    "code": 67,
+    "company": "Нэхээсгүй эдлэл ХК",
+    "ticker": "NXE",
+    "total_supply": 1288515
+  },
+  {
+    "circulating_supply": 78679464,
+    "class": "B",
+    "code": 530,
+    "company": "Ремикон ХК",
+    "ticker": "RMC",
+    "total_supply": 78679464
+  },
+  {
+    "circulating_supply": 1131087531,
+    "class": "B",
+    "code": 438,
+    "company": "Тандэм инвэст ББСБ ХК",
+    "ticker": "VIK",
+    "total_supply": 1131087531
+  },
+  {
+    "circulating_supply": 1446755,
+    "class": "B",
+    "code": 441,
+    "company": "Техник импорт ХК",
+    "ticker": "TEX",
+    "total_supply": 1446755
+  },
+  {
+    "circulating_supply": 1189983,
+    "class": "B",
+    "code": 44,
+    "company": "Тахь-ко ХК",
+    "ticker": "TAH",
+    "total_supply": 1189983
+  },
+  {
+    "circulating_supply": 163349,
+    "class": "B",
+    "code": 217,
+    "company": "Тээвэр дархан ХК",
+    "ticker": "TEE",
+    "total_supply": 163349
+  },
+  {
+    "circulating_supply": 131547500,
+    "class": "B",
+    "code": 195,
+    "company": "УБ-БҮК ХК",
+    "ticker": "BUK",
+    "total_supply": 131547500
+  },
+  {
+    "circulating_supply": 404829,
+    "class": "B",
+    "code": 7,
+    "company": "Улаанбаатар хивс ХК",
+    "ticker": "UBH",
+    "total_supply": 404829
+  },
+  {
+    "circulating_supply": 35124711,
+    "class": "B",
+    "code": 484,
+    "company": "Улсын их дэлгүүр ХК",
+    "ticker": "UID",
+    "total_supply": 36807850
+  },
+  {
+    "circulating_supply": 311856,
+    "class": "B",
+    "code": 378,
+    "company": "Хасу-Мандал ХК",
+    "ticker": "HSR",
+    "total_supply": 311856
+  },
+  {
+    "circulating_supply": 51132018,
+    "class": "B",
+    "code": 525,
+    "company": "Хай би ойл ХК",
+    "ticker": "HBO",
+    "total_supply": 52118954
+  },
+  {
+    "circulating_supply": 9258196,
+    "class": "B",
+    "code": 524,
+    "company": "Фронтиер Лэнд Групп ХК",
+    "ticker": "MDR",
+    "total_supply": 13750000
+  },
+  {
+    "circulating_supply": 12423825,
+    "class": "B",
+    "code": 309,
+    "company": "Шарын гол ХК",
+    "ticker": "SHG",
+    "total_supply": 12423825
+  },
+  {
+    "circulating_supply": 13419101,
+    "class": "B",
+    "code": 460,
+    "company": "Шивээ овоо ХК",
+    "ticker": "SHV",
+    "total_supply": 13419101
+  },
+  {
+    "circulating_supply": 46200000,
+    "class": "B",
+    "code": 537,
+    "company": "Э-Транс ложистикс XК",
+    "ticker": "ETR",
+    "total_supply": 46200000
+  },
+  {
+    "circulating_supply": 291888845,
+    "class": "B",
+    "code": 546,
+    "company": "Эрдэнэ Ресурс Девелопмент Корпорэйшн ХК",
+    "ticker": "ERDN",
+    "total_supply": 291888845
+  },
+  {
+    "ticker": "AAR",
+    "company": "Авто зам ХК",
+    "circulating_supply": 139105,
+    "total_supply": 139105,
+    "class": "C",
+    "code": 369
+  },
+  {
+    "ticker": "ABH",
+    "company": "Ар баянхангай ХК",
+    "circulating_supply": 80040,
+    "total_supply": 80040,
+    "class": "C",
+    "code": 394
+  },
+  {
+    "ticker": "ACL",
+    "company": "Тээвэр-Ачлал ХК",
+    "circulating_supply": 59152,
+    "total_supply": 59152,
+    "class": "C",
+    "code": 188
+  },
+  {
+    "ticker": "AHH",
+    "company": "Хорин хоёрдугаар бааз ХК",
+    "circulating_supply": 2651170,
+    "total_supply": 2651170,
+    "class": "C",
+    "code": 143
+  },
+  {
+    "ticker": "ALA",
+    "company": "Алтай нэгдэл ХК",
+    "circulating_supply": 103308,
+    "total_supply": 103308,
+    "class": "C",
+    "code": 119
+  },
+  {
+    "ticker": "ALD",
+    "company": "Азык ХК",
+    "circulating_supply": 124924,
+    "total_supply": 124924,
+    "class": "C",
+    "code": 187
+  },
+  {
+    "ticker": "ALI",
+    "company": "Стандарт ноос ХК",
+    "circulating_supply": 305248,
+    "total_supply": 305248,
+    "class": "C",
+    "code": 420
+  },
+  {
+    "ticker": "AMT",
+    "company": "Эрдэнэс сольюшинс ХК",
+    "circulating_supply": 157874570,
+    "total_supply": 157874570,
+    "class": "C",
+    "code": 175
+  },
+  {
+    "ticker": "AOI",
+    "company": "Авто импекс ХК",
+    "circulating_supply": 2313279,
+    "total_supply": 2313279,
+    "class": "C",
+    "code": 452
+  },
+  {
+    "ticker": "ARJ",
+    "company": "Арвижих ХК",
+    "circulating_supply": 56381,
+    "total_supply": 56381,
+    "class": "C",
+    "code": 231
+  },
+  {
+    "ticker": "AZH",
+    "company": "Алтайн зам ХК",
+    "circulating_supply": 54153,
+    "total_supply": 54153,
+    "class": "C",
+    "code": 227
+  },
+  {
+    "ticker": "BAJ",
+    "company": "Глобал лайф технологи ХК",
+    "circulating_supply": 72157,
+    "total_supply": 72157,
+    "class": "C",
+    "code": 152
+  },
+  {
+    "ticker": "BAZ",
+    "company": "Люкс занаду групп ХК",
+    "circulating_supply": 82871,
+    "total_supply": 82871,
+    "class": "C",
+    "code": 136
+  },
+  {
+    "ticker": "BBD",
+    "company": "Стандарт проперти групп ХК",
+    "circulating_supply": 1627807,
+    "total_supply": 1627807,
+    "class": "C",
+    "code": 269
+  },
+  {
+    "ticker": "BHG",
+    "company": "Бөхөг ХК",
+    "circulating_supply": 457293,
+    "total_supply": 457293,
+    "class": "C",
+    "code": 69
+  },
+  {
+    "ticker": "BHL",
+    "company": "Бөөний худалдаа ХК",
+    "circulating_supply": 1272535,
+    "total_supply": 1272535,
+    "class": "C",
+    "code": 435
+  },
+  {
+    "ticker": "BHR",
+    "company": "Бинсэ ХК",
+    "circulating_supply": 1619134,
+    "total_supply": 2268320,
+    "class": "C",
+    "code": 315
+  },
+  {
+    "ticker": "BLC",
+    "company": "Бүтээлч үйлс ХК",
+    "circulating_supply": 191180,
+    "total_supply": 191180,
+    "class": "C",
+    "code": 239
+  },
+  {
+    "ticker": "BLG",
+    "company": "Завхан баялаг ХК",
+    "circulating_supply": 56338,
+    "total_supply": 56338,
+    "class": "C",
+    "code": 204
+  },
+  {
+    "ticker": "BOE",
+    "company": "Эрчим Баян Өлгий ХК",
+    "circulating_supply": 536177,
+    "total_supply": 536177,
+    "class": "C",
+    "code": 466
+  },
+  {
+    "ticker": "BOR",
+    "company": "Борнуур ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 207
+  },
+  {
+    "ticker": "BRC",
+    "company": "Барилга корпораци ХК",
+    "circulating_supply": 40662,
+    "total_supply": 40662,
+    "class": "C",
+    "code": 476
+  },
+  {
+    "ticker": "BSKY",
+    "company": "Блюскай секьюритиз ХК",
+    "circulating_supply": 1892540,
+    "total_supply": 3697594,
+    "class": "C",
+    "code": 176
+  },
+  {
+    "ticker": "BUN",
+    "company": "Булган ундрага ХК",
+    "circulating_supply": 113212,
+    "total_supply": 113212,
+    "class": "C",
+    "code": 308
+  },
+  {
+    "ticker": "BZO",
+    "company": "Багануур, Зүүн өмнөд бүсийн цахилгаан түгээх сүлжээ ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 507
+  },
+  {
+    "ticker": "CHR",
+    "company": "Увс чацаргана ХК",
+    "circulating_supply": 713499,
+    "total_supply": 713499,
+    "class": "C",
+    "code": 448
+  },
+  {
+    "ticker": "CND",
+    "company": "АСБИ ХК",
+    "circulating_supply": 63456,
+    "total_supply": 63456,
+    "class": "C",
+    "code": 33
+  },
+  {
+    "ticker": "CUMN",
+    "company": "Сэнтрал Экспресс Си Ви Эс",
+    "circulating_supply": 817768643,
+    "total_supply": 817768643,
+    "class": "C",
+    "code": 557
+  },
+  {
+    "ticker": "DAH",
+    "company": "Дархан хөвөн ХК",
+    "circulating_supply": 55126,
+    "total_supply": 55126,
+    "class": "C",
+    "code": 254
+  },
+  {
+    "ticker": "DAR",
+    "company": "Дархан гурил тэжээл ХК",
+    "circulating_supply": 614603,
+    "total_supply": 614603,
+    "class": "C",
+    "code": 252
+  },
+  {
+    "ticker": "DAS",
+    "company": "Дарханы дулааны цахилгаан станц ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 496
+  },
+  {
+    "ticker": "DAZ",
+    "company": "Дорнод авто зам ХК",
+    "circulating_supply": 74922,
+    "total_supply": 74922,
+    "class": "C",
+    "code": 523
+  },
+  {
+    "ticker": "DBL",
+    "company": "Даваанбулаг ХК",
+    "circulating_supply": 1823137,
+    "total_supply": 1823137,
+    "class": "C",
+    "code": 150
+  },
+  {
+    "ticker": "DDS",
+    "company": "Дарханы дулааны сүлжээ ХК",
+    "circulating_supply": 95992045,
+    "total_supply": 95992045,
+    "class": "C",
+    "code": 498
+  },
+  {
+    "ticker": "DES",
+    "company": "Дорнод худалдаа ХК",
+    "circulating_supply": 73969,
+    "total_supply": 73969,
+    "class": "C",
+    "code": 311
+  },
+  {
+    "ticker": "DGS",
+    "company": "Дулааны III цахилгаан станц ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 504
+  },
+  {
+    "ticker": "DKS",
+    "company": "Дулааны II цахилгаан станц ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 502
+  },
+  {
+    "ticker": "DLH",
+    "company": "Эм Эн Ди ХК",
+    "circulating_supply": 97360,
+    "total_supply": 97360,
+    "class": "C",
+    "code": 118
+  },
+  {
+    "ticker": "DMA",
+    "company": "Дэвшил мандал ХК",
+    "circulating_supply": 70420,
+    "total_supply": 70420,
+    "class": "C",
+    "code": 300
+  },
+  {
+    "ticker": "DSD",
+    "company": "Дулааны цахилгаан станц-4 ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 514
+  },
+  {
+    "ticker": "DSH",
+    "company": "Дулаан шарын гол ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 519
+  },
+  {
+    "ticker": "DSS",
+    "company": "Дархан Сэлэнгийн цахилгаан түгээх сүлжээ ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 508
+  },
+  {
+    "ticker": "DTU",
+    "company": "Дархан төмөрлөгийн үйлдвэр ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 526
+  },
+  {
+    "ticker": "DUS",
+    "company": "Дархан ус суваг ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 505
+  },
+  {
+    "ticker": "DZS",
+    "company": "Даланзадгадын дулааны цахилгаан станц ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 513
+  },
+  {
+    "ticker": "EAZ",
+    "company": "Эрдэнэт авто зам ХК",
+    "circulating_supply": 861411,
+    "total_supply": 861411,
+    "class": "C",
+    "code": 469
+  },
+  {
+    "ticker": "EDS",
+    "company": "Эрдэнэтийн дулааны цахилгаан станц ХК",
+    "circulating_supply": 194474567,
+    "total_supply": 194474567,
+    "class": "C",
+    "code": 499
+  },
+  {
+    "ticker": "ERS",
+    "company": "Монгол алт ХК",
+    "circulating_supply": 265852,
+    "total_supply": 265852,
+    "class": "C",
+    "code": 68
+  },
+  {
+    "ticker": "EUD",
+    "company": "Эрдэнэт ус, дулаан түгээх сүлжээ ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 506
+  },
+  {
+    "ticker": "GFG",
+    "company": "Силк нэт ХК",
+    "circulating_supply": 374018,
+    "total_supply": 374018,
+    "class": "C",
+    "code": 148
+  },
+  {
+    "ticker": "GNR",
+    "company": "Гонир ХК",
+    "circulating_supply": 275186,
+    "total_supply": 275186,
+    "class": "C",
+    "code": 159
+  },
+  {
+    "ticker": "GTJ",
+    "company": "Гурил тэжээл Булган ХК",
+    "circulating_supply": 570845,
+    "total_supply": 570845,
+    "class": "C",
+    "code": 263
+  },
+  {
+    "ticker": "GUR",
+    "company": "Гурил ХК",
+    "circulating_supply": 115345,
+    "total_supply": 115345,
+    "class": "C",
+    "code": 96
+  },
+  {
+    "ticker": "HAM",
+    "company": "Монголын хөгжил үндэсний нэгдэл ХК",
+    "circulating_supply": 50000,
+    "total_supply": 50000,
+    "class": "C",
+    "code": 120
+  },
+  {
+    "ticker": "HBJ",
+    "company": "Монголын хөрөнгийн бирж ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 510
+  },
+  {
+    "ticker": "HBT",
+    "company": "Хөнгөн бетон ХК",
+    "circulating_supply": 179373,
+    "total_supply": 179373,
+    "class": "C",
+    "code": 454
+  },
+  {
+    "ticker": "HBZ",
+    "company": "Ган хэрлэн ХК",
+    "circulating_supply": 51802,
+    "total_supply": 51802,
+    "class": "C",
+    "code": 65
+  },
+  {
+    "ticker": "HGN",
+    "company": "Хөх ган ХК",
+    "circulating_supply": 101317557,
+    "total_supply": 101317557,
+    "class": "C",
+    "code": 532
+  },
+  {
+    "ticker": "HHN",
+    "company": "Хархорин ХК",
+    "circulating_supply": 539515,
+    "total_supply": 539515,
+    "class": "C",
+    "code": 179
+  },
+  {
+    "ticker": "HHS",
+    "company": "Хөвсгөл хүнс ХК",
+    "circulating_supply": 263820,
+    "total_supply": 263820,
+    "class": "C",
+    "code": 431
+  },
+  {
+    "ticker": "HJL",
+    "company": "Орхон хөгжил ХК",
+    "circulating_supply": 117437,
+    "total_supply": 117437,
+    "class": "C",
+    "code": 409
+  },
+  {
+    "ticker": "HML",
+    "company": "Глобал монголиа холдингс ХК",
+    "circulating_supply": 107306,
+    "total_supply": 107306,
+    "class": "C",
+    "code": 125
+  },
+  {
+    "ticker": "HRD",
+    "company": "Хүрд XK",
+    "circulating_supply": 135266,
+    "total_supply": 135266,
+    "class": "C",
+    "code": 8
+  },
+  {
+    "ticker": "HRL",
+    "company": "Хэрлэн Хивс ХК",
+    "circulating_supply": 1916170,
+    "total_supply": 2056170,
+    "class": "C",
+    "code": 133
+  },
+  {
+    "ticker": "HSG",
+    "company": "Хөсөг трейд ХК",
+    "circulating_supply": 295793,
+    "total_supply": 295793,
+    "class": "C",
+    "code": 56
+  },
+  {
+    "ticker": "HSX",
+    "company": "Хишиг уул ХК",
+    "circulating_supply": 868252,
+    "total_supply": 868252,
+    "class": "C",
+    "code": 376
+  },
+  {
+    "ticker": "HTS",
+    "company": "Хөтөлийн цемент шохой ХК",
+    "circulating_supply": 2876840893,
+    "total_supply": 2876840893,
+    "class": "C",
+    "code": 518
+  },
+  {
+    "ticker": "HUN",
+    "company": "Увс хүнс ХК",
+    "circulating_supply": 112716,
+    "total_supply": 112716,
+    "class": "C",
+    "code": 94
+  },
+  {
+    "ticker": "HUV",
+    "company": "Хөвсгөл геологи ХК",
+    "circulating_supply": 143959,
+    "total_supply": 143959,
+    "class": "C",
+    "code": 108
+  },
+  {
+    "ticker": "HUZ",
+    "company": "Хөвсгөл усан зам ХК",
+    "circulating_supply": 94426,
+    "total_supply": 94426,
+    "class": "C",
+    "code": 373
+  },
+  {
+    "ticker": "HVL",
+    "company": "Хөвсгөл ХК",
+    "circulating_supply": 51956,
+    "total_supply": 51956,
+    "class": "C",
+    "code": 78
+  },
+  {
+    "ticker": "HZB",
+    "company": "Хүннү менежмент ХК",
+    "circulating_supply": 99899,
+    "total_supply": 99899,
+    "class": "C",
+    "code": 353
+  },
+  {
+    "ticker": "IBA",
+    "company": "Их барилга ХК",
+    "circulating_supply": 397085,
+    "total_supply": 397085,
+    "class": "C",
+    "code": 459
+  },
+  {
+    "ticker": "INT",
+    "company": "Ингэттолгой ХК",
+    "circulating_supply": 560973,
+    "total_supply": 624383,
+    "class": "C",
+    "code": 329
+  },
+  {
+    "ticker": "JGL",
+    "company": "Говийн өндөр ХК",
+    "circulating_supply": 190491,
+    "total_supply": 190491,
+    "class": "C",
+    "code": 86
+  },
+  {
+    "ticker": "JGV",
+    "company": "Жуулчин говь ХК",
+    "circulating_supply": 74169,
+    "total_supply": 74169,
+    "class": "C",
+    "code": 61
+  },
+  {
+    "ticker": "JLT",
+    "company": "Ногоон хөгжил үндэсний нэгдэл ХК",
+    "circulating_supply": 5205600,
+    "total_supply": 5205600,
+    "class": "C",
+    "code": 201
+  },
+  {
+    "ticker": "KEK",
+    "company": "Монгол керамик ХК",
+    "circulating_supply": 318879,
+    "total_supply": 318879,
+    "class": "C",
+    "code": 40
+  },
+  {
+    "ticker": "MBG",
+    "company": "Мон-Ит Булигаар ХК",
+    "circulating_supply": 400212,
+    "total_supply": 400212,
+    "class": "C",
+    "code": 38
+  },
+  {
+    "ticker": "MDZ",
+    "company": "Монгол дизель ХК",
+    "circulating_supply": 136826,
+    "total_supply": 136826,
+    "class": "C",
+    "code": 290
+  },
+  {
+    "ticker": "MNB",
+    "company": "Мон Наб ХК",
+    "circulating_supply": 122767,
+    "total_supply": 122767,
+    "class": "C",
+    "code": 471
+  },
+  {
+    "ticker": "MNG",
+    "company": "Мандал говь импэкс ХК",
+    "circulating_supply": 71371,
+    "total_supply": 71371,
+    "class": "C",
+    "code": 80
+  },
+  {
+    "ticker": "MNS",
+    "company": "Монноос ХК",
+    "circulating_supply": 350877,
+    "total_supply": 350877,
+    "class": "C",
+    "code": 23
+  },
+  {
+    "ticker": "MOG",
+    "company": "Монгео ХК",
+    "circulating_supply": 52560,
+    "total_supply": 52560,
+    "class": "C",
+    "code": 332
+  },
+  {
+    "ticker": "MRX",
+    "company": "Мерекс ХК",
+    "circulating_supply": 65005000,
+    "total_supply": 65005000,
+    "class": "C",
+    "code": 540
+  },
+  {
+    "ticker": "MSC",
+    "company": "Монгол секюритиес ХК",
+    "circulating_supply": 29999894,
+    "total_supply": 30000000,
+    "class": "C",
+    "code": 503
+  },
+  {
+    "ticker": "MTZ",
+    "company": "Монголын төмөр зам ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 536
+  },
+  {
+    "ticker": "MUDX",
+    "company": "МҮДИКС ХК",
+    "circulating_supply": 82417,
+    "total_supply": 82417,
+    "class": "C",
+    "code": 51
+  },
+  {
+    "ticker": "NDS",
+    "company": "Налайхын дулааны станц ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 500
+  },
+  {
+    "ticker": "NKT",
+    "company": "Нако түлш ХК",
+    "circulating_supply": 12615721,
+    "total_supply": 12615721,
+    "class": "C",
+    "code": 531
+  },
+  {
+    "ticker": "NOG",
+    "company": "Ачит алкабы ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 200
+  },
+  {
+    "ticker": "NRS",
+    "company": "Шинэст ХК",
+    "circulating_supply": 184723,
+    "total_supply": 184723,
+    "class": "C",
+    "code": 359
+  },
+  {
+    "ticker": "OLL",
+    "company": "Оллоо ХК",
+    "circulating_supply": 9700497,
+    "total_supply": 9700497,
+    "class": "C",
+    "code": 527
+  },
+  {
+    "ticker": "ONH",
+    "company": "Өндөрхаан ХК",
+    "circulating_supply": 111775,
+    "total_supply": 111879,
+    "class": "C",
+    "code": 389
+  },
+  {
+    "ticker": "ORD",
+    "company": "Орхондалай ХК",
+    "circulating_supply": 242181,
+    "total_supply": 242181,
+    "class": "C",
+    "code": 331
+  },
+  {
+    "ticker": "SDT",
+    "company": "Хот девелопмент ХК",
+    "circulating_supply": 8470054,
+    "total_supply": 8470054,
+    "class": "C",
+    "code": 490
+  },
+  {
+    "ticker": "SES",
+    "company": "Сэлэнгэ сүрэг ХК",
+    "circulating_supply": 115271,
+    "total_supply": 115271,
+    "class": "C",
+    "code": 414
+  },
+  {
+    "ticker": "SIL",
+    "company": "Силикат ХК",
+    "circulating_supply": 30501676,
+    "total_supply": 46334602,
+    "class": "C",
+    "code": 317
+  },
+  {
+    "ticker": "SOH",
+    "company": "Жидакс ХК",
+    "circulating_supply": 13703055,
+    "total_supply": 13735752,
+    "class": "C",
+    "code": 385
+  },
+  {
+    "ticker": "SOR",
+    "company": "Сор ХК",
+    "circulating_supply": 891388,
+    "total_supply": 891388,
+    "class": "C",
+    "code": 97
+  },
+  {
+    "ticker": "SSG",
+    "company": "Сонсголон бармат ХК",
+    "circulating_supply": 1929073,
+    "total_supply": 1929073,
+    "class": "C",
+    "code": 54
+  },
+  {
+    "ticker": "SUN",
+    "company": "Евроазиа Капитал холдинг ХК",
+    "circulating_supply": 2270892,
+    "total_supply": 52270892,
+    "class": "C",
+    "code": 246
+  },
+  {
+    "ticker": "SVR",
+    "company": "Эрдэнэт Суврага ХК",
+    "circulating_supply": 156054,
+    "total_supply": 156054,
+    "class": "C",
+    "code": 377
+  },
+  {
+    "ticker": "TAL",
+    "company": "Талын гал ХК",
+    "circulating_supply": 694264,
+    "total_supply": 694264,
+    "class": "C",
+    "code": 464
+  },
+  {
+    "ticker": "TAS",
+    "company": "Эрдэнэт хүнс ХК",
+    "circulating_supply": 394298,
+    "total_supply": 394298,
+    "class": "C",
+    "code": 154
+  },
+  {
+    "ticker": "TAV",
+    "company": "Тав ХК",
+    "circulating_supply": 114737,
+    "total_supply": 114737,
+    "class": "C",
+    "code": 214
+  },
+  {
+    "ticker": "TGS",
+    "company": "Номин хишиг ХК",
+    "circulating_supply": 57000,
+    "total_supply": 57000,
+    "class": "C",
+    "code": 196
+  },
+  {
+    "ticker": "TLP",
+    "company": "Тулпар ХК",
+    "circulating_supply": 253983,
+    "total_supply": 268829,
+    "class": "C",
+    "code": 322
+  },
+  {
+    "ticker": "TMZ",
+    "company": "Төмрийн завод ХК",
+    "circulating_supply": 74318,
+    "total_supply": 74318,
+    "class": "C",
+    "code": 142
+  },
+  {
+    "ticker": "TNGR",
+    "company": "Тэнгэрлиг медиа групп ХК",
+    "circulating_supply": 6000000,
+    "total_supply": 6000000,
+    "class": "C",
+    "code": 408
+  },
+  {
+    "ticker": "TSA",
+    "company": "Цагаантолгой ХК",
+    "circulating_supply": 110813,
+    "total_supply": 110813,
+    "class": "C",
+    "code": 407
+  },
+  {
+    "ticker": "TUS",
+    "company": "Түшиг Уул ХК",
+    "circulating_supply": 4345770,
+    "total_supply": 4345770,
+    "class": "C",
+    "code": 386
+  },
+  {
+    "ticker": "TVL",
+    "company": "Тавилга ХК",
+    "circulating_supply": 122754,
+    "total_supply": 122754,
+    "class": "C",
+    "code": 41
+  },
+  {
+    "ticker": "TVT",
+    "company": "Хар тарвагатай ХК",
+    "circulating_supply": 330460,
+    "total_supply": 330460,
+    "class": "C",
+    "code": 455
+  },
+  {
+    "ticker": "UDS",
+    "company": "Улаанбаатар дулааны сүлжээ ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 497
+  },
+  {
+    "ticker": "ULZ",
+    "company": "Өлзий- Дундговь ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 98
+  },
+  {
+    "ticker": "UTS",
+    "company": "Улаанбаатар цахилгаан түгээх сүлжээ ХК",
+    "circulating_supply": 0,
+    "total_supply": 0,
+    "class": "C",
+    "code": 515
+  }
+]
