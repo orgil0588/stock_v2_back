@@ -3,7 +3,6 @@ module.exports = function (sequelize, DataTypes) {
     "stock_list",
 
     {
-   
       code: {
         type: DataTypes.INTEGER.UNSIGNED,
         allowNull: false,
@@ -30,6 +29,12 @@ module.exports = function (sequelize, DataTypes) {
       total_supply: {
         type: DataTypes.INTEGER.UNSIGNED,
         allowNull: false,
+      },
+      industry: {
+        type: DataTypes.STRING(150),
+      },
+      sector: {
+        type: DataTypes.STRING(150),
       },
     },
     {

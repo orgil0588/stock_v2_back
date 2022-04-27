@@ -8,18 +8,22 @@ const classLink = [
 const baseUrl = "http://mse.mn/mn/company/";
 
 exports.fn = async (db) => {
-  const obj = await db.stock_list.findAll();
-
-  for (let i = 0; i < obj.length; i++) {
-    await axios.get(`${baseUrl}${obj[i].dataValues.code}`).then((res) => {
+  console.log("started");
+  // const obj = await db.stock_list.findAll();
+  // console.log(obj);
+  // for (let i = 0; i < obj.length; i++) {
+    // await axios.get(`${baseUrl}${obj[i].dataValues.code}`).then((res) => {
+    await axios.get(`http://mse.mn/mn/company/369`).then((res) => {
       const $ = cheerio.load(res.data);
       const arr = [];
       const selector = "#ajaxTradeHistory > table > tbody > tr";
 
       $(selector).each((idx, ele) => {
         let selObj = {
-          code: obj[i].dataValues.code,
-          ticker: obj[i].dataValues.ticker,
+          // code: obj[i].dataValues.code,
+          // ticker: obj[i].dataValues.ticker,
+          code: 369,
+          ticker: "AAR",
 
           high: parseInt(
             $(
@@ -115,6 +119,7 @@ exports.fn = async (db) => {
             }) > td:nth-child(8)`
           ).text(),
         };
+        console.log(selObj);
         db.trade_history.create({
           code: selObj.code,
           ticker: selObj.ticker,
@@ -129,7 +134,7 @@ exports.fn = async (db) => {
         });
       });
     });
-  }
+  // }
 
   // await axios
   //   .get(`http://mse.mn/mn/trade_today/${}`)

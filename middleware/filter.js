@@ -6,10 +6,10 @@ exports.filter = async (db) => {
     if (
       currentDate.getDay() !== 6 &&
       currentDate.getDay() !== 0 &&
-      currentDate.getHours() >= 9 &&
-      currentDate.getHours() <= 13
+      currentDate.getHours() >= 8 &&
+      currentDate.getHours() <= 16
     ) {
-      // crawler(db);
+      crawler(db);
     }
   }, 60000);
 };

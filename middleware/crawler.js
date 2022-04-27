@@ -79,9 +79,10 @@ exports.crawler = async (db) => {
             volume: parseFloat($(volume).text()),
           };
           arr.push(obj);
+          console.log(obj.change);
         });
       }
-
+      console.log(arr);
       calculator(arr, db);
     })
     .catch((err) => {
@@ -112,6 +113,7 @@ const calculator = async (arr, db) => {
             close: isNaN(e.close) ? e.currentVal : e.close,
             change: e.change,
             volume: e.volume,
+            volumePrice: (isNaN(e.close) ? e.currentVal : e.close) * e.volume,
             date: e.date,
           });
         }
@@ -123,10 +125,13 @@ const calculator = async (arr, db) => {
               low: e.low,
               close: isNaN(e.close) ? e.currentVal : e.close,
               change: e.change,
+              volume: e.volume,
+              volumePrice: (isNaN(e.close) ? e.currentVal : e.close) * e.volume,
             },
             {
               where: {
                 code: e.code,
+                date: e.date,
               },
             }
           );
@@ -135,16 +140,16 @@ const calculator = async (arr, db) => {
       .catch((err) => {
         console.log(err);
 
-        db.trade_history.create({
-          code: e.code,
-          ticker: e.ticker,
-          open: e.open,
-          high: e.high,
-          low: e.low,
-          close: isNaN(e.close) ? e.currentVal : e.close,
-          change: e.change,
-          date: e.date,
-        });
+        // db.trade_history.create({
+        //   code: e.code,
+        //   ticker: e.ticker,
+        //   open: e.open,
+        //   high: e.high,
+        //   low: e.low,
+        //   close: isNaN(e.close) ? e.currentVal : e.close,
+        //   change: e.change,
+        //   date: e.date,
+        // });
       });
   });
 };

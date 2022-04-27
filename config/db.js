@@ -28,6 +28,7 @@ const models = [
   require("../model/stock_list"),
   require("../model/trade_history"),
   require("../model/stock_financial_info"),
+  require('../model/stock_financial_detail')
 ];
 
 models.forEach((model) => {
